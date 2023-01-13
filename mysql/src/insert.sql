@@ -1,6 +1,6 @@
--- sqlite3/src/insert.sql
+-- mysql/src/insert.sql
 
-insert into tab VALUES(
+insert into newDB.tab VALUES(
     0,
     'Entry 0',
     '2000-01-01',
